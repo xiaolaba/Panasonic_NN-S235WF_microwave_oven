@@ -1,5 +1,6 @@
-# Panasonic_NN-S235WF_microwave_oven
-hack and build the controller
+# Panasonic_NN-S235WF_microwave_oven  
+hack and build the controller.  
+it is US$100 kitchen tools and became a toy once malfuction, why so easy broken tools?  
 
 
 MN101C78A, mask rom MCU, no way to replace or repair this microwave oven as controller broad malfunctioning suddently.  
