@@ -39,3 +39,6 @@ https://extremeelectronics.co.in/avr-projects/microwave-controller-using-atmega8
 
 ### try arduino and open source code  
 LCD1602, a few button and code, it is easy, ON-OFF control and timer setting would be only barrier for the project. let us see what would be.
+
+### last time membrane fault, key press and repair by cleaning
+[panel_fix](panel_fix)  
