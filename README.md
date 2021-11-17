@@ -18,3 +18,7 @@ ON-OFF control for transformer to power magnetron, that the esential of regulate
 ### controller PCB
 ![photo/controller3.jpg](photo/controller3.jpg)  
 
+
+### why the SHORT SWITCH and why fuse burn
+[]()
+
