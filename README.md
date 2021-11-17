@@ -45,7 +45,7 @@ complete project log, [power_broad](power_broad)
 this is no much more than a "timer" + relays to control for the microwave oevn, the following is reference, and perhaps good however the license was saying no any publish could be allowed as saying with an opensource code & project ?  
 https://extremeelectronics.co.in/avr-projects/microwave-controller-using-atmega8-avr-project/  
 
-another github hoseted open source project seems promising,  
+another github hosted open source project that seems promising,  
 https://github.com/SamuelGold/arduino-microwave-oven  
 
 
