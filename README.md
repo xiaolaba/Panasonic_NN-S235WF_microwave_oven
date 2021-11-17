@@ -42,8 +42,12 @@ complete project log, [power_broad](power_broad)
 
 
 ### to build my own controller ?
-this is no much more than a "timer" + relays to control for the microwave oevn, the following is reference, and perhaps good however the license was saying no any publish could be allowed as saying with an opensource code & project ?
-https://extremeelectronics.co.in/avr-projects/microwave-controller-using-atmega8-avr-project/
+this is no much more than a "timer" + relays to control for the microwave oevn, the following is reference, and perhaps good however the license was saying no any publish could be allowed as saying with an opensource code & project ?  
+https://extremeelectronics.co.in/avr-projects/microwave-controller-using-atmega8-avr-project/  
+
+another github hoseted open source project seems promising,  
+https://github.com/SamuelGold/arduino-microwave-oven  
+
 
 ### try arduino and open source code  
 LCD1602, a few button and code, it is easy, ON-OFF control and timer setting would be only barrier for the project. let us see what would be.
