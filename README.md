@@ -24,6 +24,13 @@ ON-OFF control for transformer to power magnetron, that the esential of regulate
 ![photo/power_level_control_microwave_oven.JPG](photo/power_level_control_microwave_oven.JPG)  
 
 
+### power_broad  
+the 18V supply, relays and buzzer  
+complete project log, [power_broad](power_broad)
+![power_broad/power_broad_pcb3.jpg](power_broad/power_broad_pcb3.jpg)
+
+
+
 ### controller PCB
 ![photo/controller3.jpg](photo/controller3.jpg)  
 
@@ -42,10 +49,10 @@ https://extremeelectronics.co.in/avr-projects/microwave-controller-using-atmega8
 LCD1602, a few button and code, it is easy, ON-OFF control and timer setting would be only barrier for the project. let us see what would be.
 
 ### last time membrane fault, key press and repair by cleaning
-project log, [panel_fix](panel_fix)  
+complete project log, [panel_fix](panel_fix)  
 ![panel_fix/panel_contact.jpg](panel_fix/panel_contact.jpg)  
 
 ### last time plate motor fix by glue
-project log,[plate_motor_fix](plate_motor_fix)   
+complete project log, [plate_motor_fix](plate_motor_fix)   
 ![plate_motor_fix/4.jpg](plate_motor_fix/4.jpg)   
 
