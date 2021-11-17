@@ -11,11 +11,11 @@ see datasheet [IC_datasheet](IC_datasheet)
 
 ### symtom  
 LCD has no display, power supply and 18V is good, on-broad 3.3V is good, 8MHz xtal is good, reset circuit is good. so the only problem came to be fault of this MCU.  
-[!photo/6.jpg](photo/6.jpg)  
+![photo/6.jpg](photo/6.jpg)  
 
 
 ### circuit diagram of the oven  
-![panasonic_NN-S235WF_schenmatic.jpg](panasonic_NN-S235WF_schenmatic.jpg)  
+![photo/panasonic_NN-S235WF_schenmatic.jpg](photo/panasonic_NN-S235WF_schenmatic.jpg)  
 
 
 ### to understand how this microwave oven regulated the power
