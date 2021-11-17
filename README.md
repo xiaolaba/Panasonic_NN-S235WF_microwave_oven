@@ -7,7 +7,7 @@ Panasonic build the MCU and matsushita manufacturing, later nvuoton brand named.
 see datasheet [IC_datasheet](IC_datasheet)  
 
 ### user manual  
-[]()  
+[user manual, service manual etc. pretty much useless, not for component level of trouble shooting](manual)  
 
 ### symtom  
 LCD has no display, power supply and 18V is good, on-broad 3.3V is good, 8MHz xtal is good, reset circuit is good. so the only problem came to be fault of this MCU.  
@@ -20,5 +20,5 @@ ON-OFF control for transformer to power magnetron, that the esential of regulate
 
 
 ### why the SHORT SWITCH and why fuse burn
-[]()
+[see tranining and why manual](manual)
 
