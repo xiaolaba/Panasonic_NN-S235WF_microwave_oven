@@ -60,3 +60,9 @@ complete project log, [panel_fix](panel_fix)
 complete project log, [plate_motor_fix](plate_motor_fix)   
 ![plate_motor_fix/4.jpg](plate_motor_fix/4.jpg)   
 
+
+### vidoe log for microwave oven and energy control
+turns out that simple on/off control to power the magnetron, heat spreading and function of time is only way to control the heating level.  
+this is true for all kinds of non-invertor design of microwave oven.  
+
+https://www.facebook.com/laba.xiao.75/videos/6765868633453997/
